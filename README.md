@@ -15,6 +15,7 @@ I am trying to answer 3 questions using the data.
 #### Question 3:What are the factors that influence price the most?
 
 You can go to link below to see the blogpost that answers these question
+[Planning a data driven trip to Seattle — Insights via a Data Scientist](https://medium.com/@asif.arshd/planning-a-data-driven-trip-to-seattle-insights-via-a-data-scientist-f1aff8e31edd)
 
 I have used python installed with Anconda. Following libraries are used
 

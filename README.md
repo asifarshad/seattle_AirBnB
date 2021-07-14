@@ -20,6 +20,7 @@ This repo contains code and data for Air BnB listings in Seattle. The is publicl
 ## Files in the Repo:
 
  - `seattle_airbnb_data.ipynb`: Jupyter Notebook containing all the analysis
+ - `helper_func.py`: Contains helper functions to reuse code
  
 Data Directory:
 
